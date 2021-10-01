@@ -1,4 +1,4 @@
-# taskbarskill
+# np-taskbarskill
 NoPixel Task Bar Minigame
 
 Usage Example :
